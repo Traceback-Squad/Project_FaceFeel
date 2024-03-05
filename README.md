@@ -19,6 +19,8 @@ Guide for running Frontend website (locally):
 4. Open 'Index.html' and in bottom-right corner of VS Code click 'Go Live' button
 5. Explore the website and check out all the features!
 
-:)
-
-     
+A 12-hour Hackathon project made by -  
+Jai Singh (RA2212701010011)  
+Mrugan Kulkarni (RA2211026010433)  
+Krishna Mahajan (RA2211003010103)  
+Saptarishi Sarkar (RA2212701010035)
