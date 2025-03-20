@@ -5,7 +5,7 @@ Guide for running Backend-
 1. Download the Backend.zip file and extract.  
 2. Open VS Code and change current directory to file path of Backend folder.  
 3. Run the main.py file.  
-4. Check out all our tools!
+4. Check out all our tools!  
 
 Link for Frontend website:  
 https://krishna140504.github.io/Hacktrix-frontend-project/  
