@@ -1,5 +1,5 @@
 # Project_FaceFeel
-An AIpowered system with multiple tools like - Emotion Detection, Live Camera Emotion Detection, Cancer Detection, House Pricing Prediction.  
+An AI-powered system with multiple tools like - Emotion Detection, Live Camera Emotion Detection, Cancer Detection, House Pricing Prediction.  
 
 Guide for running Backend-  
 1. Download the Backend.zip file and extract.  
