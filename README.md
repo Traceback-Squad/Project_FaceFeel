@@ -11,7 +11,7 @@ Link for Frontend website:
 https://krishna140504.github.io/Hacktrix-frontend-project/  
 
 OR  
-
+  
 Guide for running Frontend website (locally):  
 1. Download the Frontend.zip file and extract  
 2. Open VS Code and download extension 'Live Server'  
