@@ -15,7 +15,7 @@ OR
   
 Guide for running Frontend website (locally):  
 1. Download the Frontend.zip file and extract  
-2. Open VS Code and download extension 'Live Server'  
+2. Open VS Code and download extension 'Live Server'.  
 3. Restart VS Code and open the Frontend folder containing sub files on VS Code  
 4. Open 'Index.html' and in bottom-right corner of VS Code click 'Go Live' button
 5. Explore the website and check out all the features!
